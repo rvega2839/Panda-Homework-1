@@ -68,8 +68,8 @@ figure {
     float: right;
     margin-left: 25px;
 }
-
-.content {
+/* Changed to main */
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
