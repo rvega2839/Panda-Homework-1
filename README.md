@@ -5,6 +5,7 @@ Webpage-Refactoring is a small project where the index.html and style.css code o
 
 ## Website Image
 
+![Webpage](WebpagePreviewScreenshot.png)
 
 
 
